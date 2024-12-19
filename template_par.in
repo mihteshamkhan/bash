@@ -1,0 +1,5 @@
+#Nom valeur
+DELAY 3
+dt    0.1
+frequence 4.5
+GAIN  VALEUR_GAIN
